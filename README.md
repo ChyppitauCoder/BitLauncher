@@ -1,7 +1,7 @@
 # BitLauncher
 Program with good virus. Don't recomend to run this on real machine
 
-Hello, dear ! This is "BitLauncher"! Here you can get cryptocurrency rate forecasts for FREE!
+Hello, dear user! This is "BitLauncher"! Here you can get cryptocurrency rate forecasts for FREE!
 
 Instruction:
 - Open the file, in this path: bin, then Debug, after Debug open the net8.0-windows folder, and there will be a file BitLauncher.exe.
